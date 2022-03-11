@@ -25,10 +25,39 @@ Topics I need to focus on:
 ## Data Structures Work
 
 ### TT0: 
-##### [Replit link](https://replit.com/@RachelWei1/Data-Structures-Indiv)
+#### [Replit link](https://replit.com/@RachelWei1/Data-Structures-Indiv)
 
 Links to Github for Code: [Challenge 1: menu](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/menu.java)
+KEY LEARNINGS: using the HashMap to with a **Runnable action** so that the main file of each challenge can be run. This was probably the most important, key part to figuring out this challenge. This also helps keep all the challenges organized so that the menu can iterate through the HashMap.
+'''
+Map<Integer, menu> Menu = new HashMap<>();
 
+        Menu.put(1, new menu("IntByReference", () -> IntByReference.main(null) ) );
+        Menu.put(2, new menu("Matrix", () -> Matrix.main(null) ) );
+        //print the menu
+        System.out.println("Menu:");
+
+        for (Map.Entry<Integer, menu> pair : Menu.entrySet()) {
+            System.out.println(pair.getKey() + " - " + pair.getValue().getTitle());
+        }
+
+        //scanner gets user input for menu selection
+        int input = sc.nextInt();
+
+        try {
+            //according to user input, return the method at the Map's index
+            menu m = Menu.get(input);
+            //run action
+            m.getAction().run();
+            System.out.println("");
+'''
+Another interesting thing was the **try and catch** implementation. Essentially, the try & catch helps account for user error (if the user puts an int that is invalid)
+'''
+catch (Exception e){
+            //exception for if user puts something not applicable
+            System.out.println("Something went wrong. Please try again. \n");
+        }
+'''
 
 Links to Github for Code: [Challenge 2: IntByReference (put lower number first)](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/IntByReference.java)
 
