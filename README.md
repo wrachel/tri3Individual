@@ -52,6 +52,7 @@ Map<Integer, menu> Menu = new HashMap<>();
             System.out.println("");
 '''
 Another interesting thing was the **try and catch** implementation. Essentially, the try & catch helps account for user error (if the user puts an int that is invalid)
+
 '''
 catch (Exception e){
             //exception for if user puts something not applicable
