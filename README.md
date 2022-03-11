@@ -24,8 +24,9 @@ Topics I need to focus on:
 
 ## Data Structures Work
 
-### TT0: 
 #### [RUN THE CHALLENGES ON Replit link](https://replit.com/@RachelWei1/Data-Structures-Indiv)
+
+### TT0: 
 
 Links to Github for Code: [Challenge 1: menu](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/menu.java)
 **KEY LEARNINGS**: using the HashMap to with a **Runnable action** so that the main file of each challenge can be run. This was probably the most important, key part to figuring out this challenge. This also helps keep all the challenges organized so that the menu can iterate through the HashMap.
