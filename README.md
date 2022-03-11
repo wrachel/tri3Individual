@@ -26,12 +26,14 @@ Topics I need to focus on:
 
 ### TT0: 
 ##### [Replit link](https://replit.com/@RachelWei1/Data-Structures-Indiv)
-Links to Github for Code: 
 
-[Challenge 1: menu](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/menu.java)
+Links to Github for Code: [Challenge 1: menu](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/menu.java)
 
-[Challenge 2: IntByReference (put lower number first)](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/IntByReference.java)
 
-[Challenge 3: Matrix (format Array output)](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/Matrix.java)
+Links to Github for Code: [Challenge 2: IntByReference (put lower number first)](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/IntByReference.java)
+
+
+Links to Github for Code: [Challenge 3: Matrix (format Array output)](https://github.com/wrachel/tri3Individual/blob/master/tri3Individual/src/Matrix.java)
+
 
 
