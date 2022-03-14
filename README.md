@@ -1,5 +1,5 @@
 # Individual Github Pages
-
+[link to Github Pages](https://wrachel.github.io/tri3Individual/)
 
 # GRADING
 | Week | Score | Review Ticket with Scoring | 
