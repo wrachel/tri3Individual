@@ -1,5 +1,11 @@
 # Individual Github Pages
 
+
+# GRADING
+| Week | Score | Review Ticket with Scoring | 
+| ---- | ----- | -------------------------- |
+| Week 0 | - | 
+
 ## Navigating Notes and Plans for Each Tech Talk
 In each Tech Talk, I will prepare questions and review the Tech Talk material beforehand. I will take notes on important key concepts for each TT. 
 
