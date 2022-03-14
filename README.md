@@ -5,7 +5,7 @@ o
 
 # GRADING
 | Week | Score | Review Ticket with Scoring | 
-| ---- | ----- | -------------------------- |
+ ---- | ----- | -------------------------- |
  Week 0 | 2.9/3 | [Review Ticket](https://github.com/wrachel/tri3Individual/issues/1)  
 
 ## Navigating Notes and Plans for Each Tech Talk
