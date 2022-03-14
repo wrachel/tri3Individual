@@ -1,12 +1,12 @@
 # Individual Github Pages
 [link to Github Pages](https://wrachel.github.io/tri3Individual/)
 
-o
-
 # GRADING
 | Week | Score | Review Ticket with Scoring | 
- ---- | ----- | -------------------------- |
- Week 0 | 2.9/3 | [Review Ticket](https://github.com/wrachel/tri3Individual/issues/1)  
+| ---- | ----- | -------------------------- |
+| Week 0 | 2.9/3 | [Review Ticket](https://github.com/wrachel/tri3Individual/issues/1)  |
+
+WEEK 0: score is 2.9/3, [Review Ticket](https://github.com/wrachel/tri3Individual/issues/1)
 
 ## Navigating Notes and Plans for Each Tech Talk
 In each Tech Talk, I will prepare questions and review the Tech Talk material beforehand. I will take notes on important key concepts for each TT. 
