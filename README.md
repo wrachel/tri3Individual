@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Individual Github Pages
 ## [link to Github Pages](https://wrachel.github.io)
 ## [link to Replit](https://replit.com/@RachelWei1/Data-Structures-Indiv#Main.java)
