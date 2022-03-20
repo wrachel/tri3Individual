@@ -1,7 +1,10 @@
+import linkedlist2.MergingQueues;
+import linkedlist2.QueueTester;
+import linkedlist2.reverseQueues;
+
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Scanner; //java library for user input
-import java.util.ArrayList;
+import java.util.Scanner;
 
 public class menu {
     String title;
@@ -28,6 +31,10 @@ public class menu {
 
         Menu.put(1, new menu("IntByReference", () -> IntByReference.main(null) ) );
         Menu.put(2, new menu("Matrix", () -> Matrix.main(null) ) );
+        Menu.put(3, new menu("Queue Iterator", () -> QueueTester.main(null)));
+        Menu.put(4, new menu("Merge Queues", ()-> MergingQueues.main(null)));
+        Menu.put(5, new menu("Reverse Queues", ()-> reverseQueues.main(null)));
+
         //print the menu
         System.out.println("Menu:");
 
